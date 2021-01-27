@@ -1,0 +1,11 @@
+.optionButton {
+  border: none;
+  border-radius: 20px;
+  padding: 10px 30px;
+  background-color: #23eaea;
+  outline: none;
+}
+
+.optionButton:hover {
+  background-color: #045f85;
+}

@@ -1,0 +1,12 @@
+.section {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 30%;
+  justify-content: space-around;
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+}
